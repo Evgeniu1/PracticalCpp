@@ -1,0 +1,21 @@
+__Turbojet__
+Marking: AEQ-12
+Fuel: Oxygen+Petrol
+Material: 3
+Power: 12000
+Efficiency: 85
+Mass: 3000
+Traction: 9000
+Outline: High bypass
+
+__Piston__
+Marking: CAXA
+Fuel: Petrol
+Material: 1
+Power: 195
+Efficiency: 95
+Mass: 210
+Torque: 260
+Cylinder: 4
+Type of engine: Straigth
+
