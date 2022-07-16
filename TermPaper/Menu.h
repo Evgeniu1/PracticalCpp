@@ -10,7 +10,6 @@ private:
 public:
 	Menu();
 	virtual ~Menu();
-	static Menu& menu();
 	void  run();
 	void create_turbojet();
 	void create_piston();
