@@ -2,7 +2,8 @@
 
 int main()
 {
-	Menu& Obj = Menu::menu();
-	Obj.run();
-	return 0;
+    Menu session;
+    session.run();
+
+    return 0;
 }
