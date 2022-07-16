@@ -46,12 +46,6 @@ void Menu::run()
 	}
 }
 
-Menu& Menu::menu()
-{
-	static Menu obj;
-	return obj;
-}
-
 void Menu::create_turbojet()
 {
 	string temp;
